@@ -41,7 +41,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_THEME_CONFIG": "[{\"id\":\"00000000-0000-4000-8000-000000000001\",\"displayName\":\"Default\",\"mode\":\"dark\",\"isDefault\":true}]",
   "VITE_ANALYTICS_SCRIPT": "{}",
   "VITE_ANALYTICS_CONFIG": "",
-  "VITE_SYMBOL_LIST": "",
+  "VITE_SYMBOL_LIST": "PERP_LIT_USDC",
   "VITE_RESTRICTED_REGIONS": "",
   "VITE_WHITELISTED_IPS": ""
 };
